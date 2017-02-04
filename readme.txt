@@ -1,0 +1,1 @@
+Core/Engine headers and libs. Taken from the game source code (see '_origSource' folder) and modified to work with VS2008.
